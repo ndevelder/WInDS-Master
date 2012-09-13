@@ -1,7 +1,7 @@
 Included model files may be used to model an elliptical wing, the NREL 5-MW rotor, and the NREL 5-MW rotor with a flat plate airfoil used along the entire span. Currently set up to run the NREL 5-MW rotor... just run WInDS.m
 
 Copyright (c) 2011, Thomas Sebastian
-All rights reserved.
+All rights reserved
 
 
 Redistribution and use in source and binary forms, with or without 
